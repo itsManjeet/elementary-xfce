@@ -1778,13 +1778,11 @@ modelbutton label,
 }
 
 menu:dir(ltr) menuitem image:first-child {
-    margin-left: -17px;
     padding-left: 0;
     padding-right: 2px;
 }
 
 menu:dir(rtl) menuitem image:first-child {
-    margin-right: -17px;
     padding-left: 2px;
     padding-right: 0;
 }
